@@ -1,2 +1,9 @@
-# TextToSpeech_SpeechToText
-text to speech and speech to text 
+# Text to Speech and Speech to Text
+Smart Methods Task 4 - Speech to text and Text to speech 
+
+
+## Built With
+- Python language
+- Speech to text IBM WATSON
+- Text to Speech IBM WATSON
+- Jupyter
